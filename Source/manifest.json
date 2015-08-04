@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
 
-	"name": "Millennials to Snake People",
-    "short_name": "Snake People",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
-	"author": "Eric Bailey",
-	"version": "1.4",
+	"name": "May not",
+	"short_name": "May not",
+	"description": "Tells readers that if something \"may\" be true, it also may not be.",
+	"author": "Nikhil Sonnad",
+	"version": "0.1",
 
 	"icons": {
 		"16": "icon16.png",
